@@ -1,0 +1,7 @@
+  const pathname = usePathname();
+  const router = useRouter();
+
+
+  npm i next-auth mongoose joi
+
+  jl8pG0olOhvlMeHP password mongodb
